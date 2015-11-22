@@ -11,6 +11,7 @@ nodejs offline module collections
 | 3029 | [cgo](https://github.com/i5ting/cgo) | language syntax compare |
 | 3456 | [upload-anywhere](https://github.com/i5ting/upload-anywhere) | a node cli tools for uploads ui |
 | 4000 | [tsdocs](https://github.com/i5ting/tsdocs) | typescript offline doc with http://www.typescriptlang.org/Tutorial |
+| 4001 | [frontend tutorials](https://github.com/i5ting/ft) | frontend tutorials |
 
 ## Template
 
